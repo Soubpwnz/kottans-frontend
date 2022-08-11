@@ -39,3 +39,17 @@ _For me, everything was new, since I had never come across a Linux system. At th
 </details>
 
 _While studying this material, I encountered certain difficulties associated with certain GIT commands, in the learning process I will return to them. It was interesting to study the analysis of conflicts. I think that this material will be useful in the work._
+
+## Intro to HTML and CSS
+
+<details>
+<summary>Screenshots</summary>
+
+![Screenshot](task_html_css_intro/1.PNG)
+![Screenshot](task_html_css_intro/2.PNG)
+![Screenshot](task_html_css_intro/3.PNG)
+![Screenshot](task_html_css_intro/4.PNG)
+![Screenshot](task_html_css_intro/5.PNG)
+</details>
+
+_In this course, everything was clear, since I had already dealt with HTML and CSS. From the new I learned that the color can be indicated as a percentage (I will try to use this)._
